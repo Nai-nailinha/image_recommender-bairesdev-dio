@@ -29,7 +29,7 @@ O projeto foi desenvolvido no **Google Colab**, utilizando **Deep Learning** com
 
 A partir de uma imagem de entrada, o sistema retorna os produtos mais semelhantes:
 
-![Exemplo de Predição](/prediction_demo.jpg)
+![Exemplo de Predição](/predictions.png)
 
 🛠️ Tecnologias
 
